@@ -24,5 +24,5 @@ COPY docker-entrypoint.sh /entrypoint.sh
 RUN chmod 755 /entrypoint.sh
 
 # grr, ENTRYPOINT resets CMD now
-ENTRYPOINT ["/entrypoint.sh"]
-CMD ["apache2-foreground"]
+ENTRYPOINT ["apache2-foreground"]
+#CMD ["apache2-foreground"]

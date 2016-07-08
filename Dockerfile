@@ -2,7 +2,7 @@ FROM php:5.6-apache
 
 RUN docker-php-ext-install mysqli
 
-COPY entrypoint.sh /entrypoint.sh
+COPY docker-entrypoint.sh /entrypoint.sh
 
 RUN chmod 777 /entrypoint.sh
 

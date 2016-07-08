@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c366033-e0e8-45ee-983e-b78b355f26bc" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Dockerfile" afterPath="$PROJECT_DIR$/Dockerfile" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/php.ini" afterPath="$PROJECT_DIR$/php.ini" />
     </list>
     <ignored path="wp-build-container.iws" />
@@ -23,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.7037036">
-              <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            <state vertical-scroll-proportion="0.08143322">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="php.ini" pinned="false" current-in-tab="true">
+      <file leaf-file-name="php.ini" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/php.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.353628">
-              <caret line="731" column="42" selection-start-line="731" selection-start-column="42" selection-end-line="731" selection-end-column="42" />
+            <state vertical-scroll-proportion="37.07143">
+              <caret line="16" column="46" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -62,8 +63,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/docker-entrypoint.sh" />
-        <option value="$PROJECT_DIR$/Dockerfile" />
         <option value="$PROJECT_DIR$/php.ini" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
       </list>
     </option>
   </component>
@@ -225,18 +226,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Dockerfile">
+    <entry file="file://$PROJECT_DIR$/php.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.7037036">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state vertical-scroll-proportion="37.07143">
+          <caret line="16" column="46" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="46" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php.ini">
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.353628">
-          <caret line="731" column="42" selection-start-line="731" selection-start-column="42" selection-end-line="731" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.08143322">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
